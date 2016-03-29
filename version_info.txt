@@ -1,0 +1,5 @@
+Version:0.1alpha
+Build Number:egf5ce_SWPINA5443MM601CM13GC1222437
+Build Source: CM
+Build Package:CM_unofficial
+MazuRemixBuild:Official Legacy_0092
